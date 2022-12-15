@@ -320,5 +320,5 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
+ **Abigail and Thomas**
 
